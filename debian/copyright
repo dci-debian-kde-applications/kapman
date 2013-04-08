@@ -1,6 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kapman
-Upstream-Contact: Albert Astals Cid <aacid@kde.org>
+Upstream-Contact: Thomas Gallinari <tg8187@yahoo.fr>
+                  Albert Astals Cid <aacid@kde.org>
                   Wolfgang Rohdewald <wolfgang@rohdewald.de>
 Source: http://www.kde.org/download/
 
