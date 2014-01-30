@@ -1,6 +1,7 @@
 kapman (4:4.11.5-1) UNRELEASED; urgency=medium
 
   * New upstream release.
+  * Do not disable an empty test set.
 
  -- Maximiliano Curia <maxy@debian.org>  Thu, 30 Jan 2014 11:04:33 +0100
 
