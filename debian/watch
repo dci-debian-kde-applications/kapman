@@ -1,2 +1,2 @@
 version=3
-ftp://ftp.kde.org/pub/kde/stable/([\d\.]*)/src/kapman-([\d\.]*).tar.xz
+http://download.kde.org/stable/([\d.]+)/src/kapmap-([\d.]+).tar.xz
