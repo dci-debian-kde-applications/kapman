@@ -23,7 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kapman.git
 Package: kapman
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Pac-Man clone
  Kapman is a clone of the well known game Pac-Man. You must go through the
  levels escaping ghosts in a maze. You lose a life when a ghost eats you, but
