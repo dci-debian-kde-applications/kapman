@@ -6,43 +6,24 @@ Upstream-Contact: Thomas Gallinari <tg8187@yahoo.fr>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2007,2008, Thomas Gallinari <tg8187@yahoo.fr>
-           2007,2008, Pierre-Benoit Besse <besse.pb@gmail.com>
-           2007,2008, Alexandre Galinier <blluetroy@hotmail.com>
-           2007,2008, Nathalie Liesse <nathalie.liesse@gmail.com>
+Copyright: 2007-2008, Alexandre Galinier <alex.galinier@hotmail.com>
+           2007-2008, Alexia Allanic <alexia_allanic@yahoo.fr>
+           1989-1991, Free Software Foundation, Inc
+           2007-2008, Gaël Courcelle <gael.courcelle@gmail.com>
+           2007-2008, Johann Hingue <yoan1703@hotmail.fr>
+           2007-2008, Nathalie Liesse <nathalie.liesse@gmail.com>
+           2007-2008, Pierre-Benoit Bessse <besse@gmail.com>
+           2007-2008, Pierre-Benoît Besse <besse.pb@gmail.com>
+           2007-2008, The KapTeam
+           2007-2008, Thomas Gallinari <tg8187@yahoo.fr>
 License: GPL-2+
 
 Files: doc/*
-Copyright: 2008 Thomas Gallinari <tg8187@yahoo.fr>
+Copyright: 2008, Alexandre Galinier <email>blluetroy@hotmail.com</email>
+           2008, Nathalie Liesse <email>nathalie.liesse@gmail.com</email>
+           2008, Pierre-Benoit Besse <email>besse.pb@gmail.com</email>
+           2008, Thomas Gallinari <email>tg8187@yahoo.fr</email>
 License: GFDL-1.2+
-
-Files: *.png *.svgz
-Copyright: 2008 Thomas Gallinari <tg8187@yahoo.fr>
-License: GPL-2+
-
-Files: bonus.cpp
-       bonus.h
-Copyright: 2007-2008, Gaël Courcelle <gael.courcelle@gmail.com>
-           2007-2008, Johann Hingue <yoan1703@hotmail.fr>
-           2007-2008, Alexia Allanic <alexia_allanic@yahoo.fr>
-           2007-2008, Thomas Gallinari <tg8187@yahoo.fr>
-License: GPL-2+
-
-Files: energizer.cpp
-       energizer.h
-       pill.cpp
-       pill.h
-Copyright: 2007-2008, Gaël Courcelle <gael.courcelle@gmail.com>
-           2007-2008, Alexia Allanic <alexia_allanic@yahoo.fr>
-           2007-2008, Thomas Gallinari <tg8187@yahoo.fr>
-License: GPL-2+
-
-Files: themes/mountain.svgz themes/mountain*.png
-Copyright: 2009, Nicu Buculei <nicu@nicubunu.ro>
-           2009, Eugene Trounev <eugene.trounev@gmail.com>
-           2009, Thomas Gallinari <tg8187@yahoo.fr>
-           2009, Mauricio Piacentini <piacentini@kde.org>
-License: GPL-2+
 
 Files: debian/*
 Copyright: 2007-2013, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
