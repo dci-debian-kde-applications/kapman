@@ -1,9 +1,0 @@
-?package(kapman):\
-	needs="x11"\
-	section="Games/Action"\
-	hints="KDE"\
-	title="Kapman"\
-	icon32x32="/usr/share/pixmaps/kapman.xpm"\
-	icon16x16="/usr/share/pixmaps/kapman-16.xpm"\
-	command="/usr/games/kapman"
-
