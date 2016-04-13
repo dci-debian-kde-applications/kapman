@@ -1,3 +1,11 @@
+kapman (4:15.12.3-1~1.gbp7a3e5c) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @7a3e5ce2c1cd6182a2a13aa26dc85de6d7048874 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:45:00 +0200
+
 kapman (4:15.12.0-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
