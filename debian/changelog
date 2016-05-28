@@ -1,10 +1,6 @@
-kapman (4:16.04.0-1~2.gbp2ca999) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @2ca99990d28ff0c9756594c438d95dc7b63285ba **
+kapman (4:16.04.0-1) unstable; urgency=medium
 
   [ Automatic packaging ]
-  ** SNAPSHOT build @6baeb0bdb2ba97c0cd844aed67531f03b55ebe96 **
-
   * Bump Standards-Version to 3.9.8
   * Update build-deps and deps with the info from cmake
 
@@ -14,7 +10,7 @@ kapman (4:16.04.0-1~2.gbp2ca999) UNRELEASED; urgency=medium
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@gnuservers.com.ar>  Mon, 09 May 2016 13:43:17 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:08:41 +0200
 
 kapman (4:15.12.0-1) experimental; urgency=medium
 
