@@ -1,10 +1,16 @@
-kapman (4:16.08.0-1~1.gbpaa6eb7) UNRELEASED; urgency=medium
+kapman (4:16.08.1-1~1.gbp4aa078) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @4aa07809d7b2770a00cdeab9e152eb9b8a31421b **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @aa6eb7c3ebaeca58ba50c764cf56bd676bfa7a58 **
 
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 23:43:16 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 23:43:37 +0200
 
 kapman (4:16.04.0-1) unstable; urgency=medium
 
