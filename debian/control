@@ -39,6 +39,8 @@ Package: kapman
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Recommends: khelpcenter
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: Pac-Man clone
  Kapman is a clone of the well known game Pac-Man. You must go through the
  levels escaping ghosts in a maze. You lose a life when a ghost eats you, but
